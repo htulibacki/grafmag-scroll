@@ -1,0 +1,16 @@
+{
+  "name": "grafmag-scroll",
+  "description": "Grafmag Scroll",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "Hubert Tulibacki <hubert@tulibacki.pl>"
+  ],
+  "license": "MIT",
+  "homepage": "http://grafmag.pl",
+  "private": true,
+  "dependencies": {
+    "scrollreveal": "^3.1.1",
+    "parallax.js": "^1.4.2"
+  }
+}
