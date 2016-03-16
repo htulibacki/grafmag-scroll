@@ -6,4 +6,4 @@ Lista przykładów:
 
 * [Tło stoi w miejscu](http://htulibacki.github.io/grafmag-scroll/statyczne-tlo.html)
 * [Tło przesuwa się z efektem paralaksy](http://htulibacki.github.io/grafmag-scroll/paralaksa.html)
-* [Popup po przewinięciu 50% strony](http://htulibacki.github.io/grafmag-popup/on-50p-scroll.html)
+* [Pojawiające się elementy strony](http://htulibacki.github.io/grafmag-scroll/elementy.html)
